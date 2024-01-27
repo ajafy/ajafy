@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 
 - 🌐 &nbsp; JavaScript | HTML | CSS | Node.js | NestJs | C | C++ 
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 🛢 &nbsp; MySQL | PostgreSQL | Prisma
 - 🔧 &nbsp; Git | Docker
 - 🖥 &nbsp; Linux | Bash
