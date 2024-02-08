@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 I’m currently Searching Internship
+- 🔭 Currently an intern at JESA
 - 🌱 I’m currently learning FullStack
 - 📫 How to reach me: Abdelhamidjafy3003@gmail.com
 
