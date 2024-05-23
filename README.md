@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 
-- 🌐 &nbsp; JavaScript | JAVA | HTML | CSS | Node.js | NestJs | C | C++ 
+- 🌐 &nbsp; JavaScript | JAVA | HTML | CSS | Node.js | NestJs | C | C++ | Selenium
 - 🛢 &nbsp; MySQL | PostgreSQL | Prisma
 - 🔧 &nbsp; Git | Docker
 - 🖥 &nbsp; Linux | Bash
